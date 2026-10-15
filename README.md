@@ -1,16 +1,23 @@
-# stouchi
+# Stouchi
 
-A new Flutter project.
+**Author:** [Ayoub MNAFEG](https://github.com/ayoubmnafeg)
+**School / context:** Personal / school-related
 
-## Getting Started
+Flutter mobile app for personal finance tracking, with Firebase, local storage (Hive), charts, and onboarding.
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
+This repository contains the project source code.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter, Dart, Firebase, Hive, GetX
+
+## Author
+
+- Name: **Ayoub MNAFEG**
+- GitHub: [ayoubmnafeg](https://github.com/ayoubmnafeg)
+
+---
+
+*School project maintained by Ayoub MNAFEG.*
