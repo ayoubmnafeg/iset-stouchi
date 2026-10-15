@@ -1,9 +1,9 @@
 # Stouchi
 
 **Author:** [Ayoub MNAFEG](https://github.com/ayoubmnafeg)
-**School / context:** Personal / school-related
+**School / context:** ISET
 
-Flutter mobile app for personal finance tracking, with Firebase, local storage (Hive), charts, and onboarding.
+Flutter personal finance app built as an ISET school project, with Firebase, local storage (Hive), charts, and onboarding.
 
 ## About
 
